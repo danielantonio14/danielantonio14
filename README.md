@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielantonio14
-- 👀 I’m interested in programming ( Python and Javascript )...
+- 👀 Reactjs , Nodejs , Python, Nodejs APIs, Nextjs)...
 - 📫 How to reach me - danielantonio.dad52@gmail.com
 
 <!---
